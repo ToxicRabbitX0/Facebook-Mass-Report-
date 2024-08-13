@@ -1,4 +1,15 @@
-# Facebook-Mass-Report-
-This powerful tool enables users to efficiently mass report social media accounts. It allows customization of the number of parallel processing threads and provides options for selecting the type of report to be filed against the targeted user.
+Here's an optimized version that is more professional and tailored for GitHub SEO:
 
-Contact me now  Telegram [@redomio_r](https://t.me/redomio_r)
+---
+
+# Social Media Mass Reporting Tool
+
+This powerful tool enables efficient mass reporting of social media accounts. It features customizable parallel processing threads, allowing users to maximize efficiency. Additionally, users can select the specific type of report to be filed against the targeted accounts, making it a versatile solution for enforcing platform rules.
+
+## Key Features:
+- **Multi-threading**: Customize the number of parallel processing threads to suit your needs.
+- **Report Customization**: Choose from various types of reports to address different violations.
+- **User-Friendly Interface**: Designed for easy use, even for those new to automation tools.
+
+### Get in Touch
+For more information or support, feel free to contact me on Telegram: [@redomio_r](https://t.me/redomio_r).
