@@ -1,7 +1,3 @@
-Here's an optimized version that is more professional and tailored for GitHub SEO:
-
----
-
 # Social Media Mass Reporting Tool
 
 This powerful tool enables efficient mass reporting of social media accounts. It features customizable parallel processing threads, allowing users to maximize efficiency. Additionally, users can select the specific type of report to be filed against the targeted accounts, making it a versatile solution for enforcing platform rules.
