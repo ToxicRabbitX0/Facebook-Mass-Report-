@@ -45,7 +45,7 @@ python3 main.py
 
 ---
 
-## ✅ Supported Platforms (Coming Soon / WIP)
+## ✅ Supported Platforms 
 
 * Instagram
 * TikTok
