@@ -1,76 +1,69 @@
-# 🚨 Social Media Mass Reporting Tool – Automated Account Reporting Bot
+<!--
+#️⃣ Tags:
+mass reporting tool, social media automation, tiktok report bot, instagram spam reporter, youtube account flagger, digital content protection, osint reporting tool, takedown bot, social media moderation tool
 
-**Looking for a way to report social media accounts quickly and efficiently?**
-This powerful **Social Media Mass Reporting Tool** is a Python-based automation script designed to help users report multiple accounts on platforms like Instagram, TikTok, or Twitter using multiple customizable threads.
+📚 Keywords:
+mass report script, fake profile removal, impersonation takedown tool, harassment reporter, tiktok bulk report, multi-threaded report bot, telegram report bot, social media enforcement automation
+-->
 
-## 🔍 Why Use This Tool?
+<p align="center">
+  <a href="https://t.me/RedRepo" target="_blank">
+    <img src="https://github.com/user-attachments/assets/a3663b01-f9f5-4531-97d8-fd67a78a0cbd" alt="Join RedRepo on Telegram" width="100%">
+  </a>
+</p>
 
-* ✔️ **Mass Account Reporting**: Automate the process of reporting many accounts in one go.
-* ⚙️ **Multi-threaded Performance**: Boost efficiency with customizable parallel processing threads.
-* 🎯 **Report Types Selection**: Choose specific report reasons (e.g. harassment, spam, impersonation).
-* 🧠 **Beginner-Friendly Interface**: No complex setup. Just configure and run!
+# 🚨 Social Media Mass Reporting Tool – Automated Account Reporter
 
-This project is ideal for:
+> **Python-powered bot for rapid, multi-platform account takedown automation**
 
-* Digital rights defenders
-* Community moderators
-* Content protection teams
-* OSINT researchers
-
-> ⚠️ Use responsibly. This tool is for educational, ethical, and legal purposes only.
+**Looking for a way to report social media accounts quickly and efficiently?**  
+This **Social Media Mass Reporting Tool** is a multi-threaded Python script designed to help you report multiple accounts on platforms like Instagram, TikTok, X (Twitter), and more.
 
 ---
 
-![Capture d'écran 2024-08-13 212759](https://github.com/user-attachments/assets/a3663b01-f9f5-4531-97d8-fd67a78a0cbd)
+## 🔍 Why Use This Tool?
 
-## 📦 Features Overview
+✅ **Mass Account Reporting**  
+🚀 **Parallel Thread Support (Multi-threading)**  
+🎯 **Customizable Report Reasons (Spam, Harassment, etc.)**  
+🧠 **Beginner-Friendly – Just Clone & Run**  
+🔐 **Open Source & Fully Configurable**
 
-| Feature            | Description                                                              |
-| ------------------ | ------------------------------------------------------------------------ |
-| 🔁 Multi-threading | Customize how many threads you want to run for faster processing.        |
-| 📝 Report Types    | Pick from different violation categories to match your enforcement goal. |
-| 🖥️ Easy to Use    | Simple configuration. No need for advanced programming skills.           |
+This tool is useful for:
+- Digital Rights Enforcers
+- Content Moderation Teams
+- Brand Protection Services
+- OSINT & Threat Intelligence Analysts
+
+> ⚠️ Use ethically and legally. For **educational, moderation, or research purposes** only.
+
+---
+
+## 📦 Features at a Glance
+
+| Feature            | Description                                                                 |
+| ------------------ | --------------------------------------------------------------------------- |
+| 🔁 Multi-threading | Run multiple reporting sessions simultaneously for max efficiency           |
+| 🎯 Report Types    | Choose reasons like spam, impersonation, bullying, etc.                     |
+| 📄 Easy Config     | Simple input files and `.env` setup — no coding skills required             |
+| 🔐 Ethical Scope   | Designed for responsible content protection use cases                       |
 
 ---
 
 ## 🚀 Getting Started
-
-Clone this repository and follow the instructions in `main.py` or the provided documentation.
 
 ```bash
 git clone https://github.com/ToxicRabbitX0/social-media-mass-reporter.git
 cd social-media-mass-reporter
 python3 main.py
 ```
-
----
-
-## ✅ Supported Platforms 
-
-* Instagram
-* TikTok
-* Twitter/X
-* Facebook
-* YouTube
-
----
-
-## 🤝 Contact & Support
-
-Need help or want to discuss collaboration?
-
-📩 Telegram: [@RedRepo](https://t.me/RedRepo)
-
----
-
 ## 🔐 Disclaimer
 
-> This tool is intended only for **ethical use**, such as content moderation or educational research. Misuse of this software to harass, bully, or falsely target individuals is **strictly prohibited**. Use at your own risk.
+> This project is intended solely for **ethical, legal, and educational** usage.
+> Do **not** use this script to harass or target individuals unfairly.
+> The author takes **no responsibility** for misuse or violations of platform terms.
 
----
+📩 **Contact Command Line**: [@RedRepo](https://t.me/RedRepo)
 
-## 📈 Help Us Get Discovered!
 
-If you find this project useful, consider giving it a ⭐️ on GitHub and sharing it with your community. This helps others discover the tool and contributes to open-source security and moderation efforts.
 
----
